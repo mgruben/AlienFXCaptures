@@ -23,7 +23,7 @@ zonex has options for Set 1, Set 2, and Set 3.  I didn't notice any changes for 
 ### Red, Green, Blue Themes
 R-G-B.pcap captures the application, to all non-power zones, of a red theme, a green theme, then a blue theme.
 
-### Zone Morph
+### Zone Color
 Each zone[#]color.pcap captures a set progression:  
 solid color - red  
 solid color - green  
