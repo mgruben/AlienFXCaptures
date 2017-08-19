@@ -8,7 +8,7 @@ This repo contains packet captures from the AlienFX program to the AlienFX board
 You might want to know these if you use Linux exclusively, and so can't use the Dell-provided AlienFX SDK to speak with the lights on your Alienware computer.
 
 This repo is **not** a way to change the lights on your Alienware PC.  
-Those are repos like [alienfx](), [AlienFxLite](), and [alienware-kbl]().  
+Those are repos like [alienfx](https://github.com/trackmastersteve/alienfx), [AlienFxLite](https://github.com/bchretien/AlienFxLite), and [alienware-kbl](https://github.com/rsm-gh/alienware-kbl).  
 This repo is just packet captures between AlienFX and an Alienware 2016 17 R4.
 ## Capture Methodology
 ### Preliminary Notes
