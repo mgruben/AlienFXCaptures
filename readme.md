@@ -24,30 +24,30 @@ zonex has options for Set 1, Set 2, and Set 3.  I didn't notice any changes for 
 R-G-B.pcap captures the application, to all non-power zones, of a red theme, a green theme, then a blue theme.
 
 ### Zone Morph
-Each zone[#]color.pcap captures a set progression:
-solid color - red
-solid color - green
+Each zone[#]color.pcap captures a set progression:  
+solid color - red  
+solid color - green  
 solid color - blue
 
 **Note** that for zone1, the progression is r-b, g-b, b-b, b-r, b-g, with an "Apply" in between each, since the colors don't change without applying the theme.  
 Probably relatedly, zone1color is a much larger file than are all other zone color captures.
 
 ### Zone Morph
-Each zone[#]morph.pcap captures the following morphs:
-red-black
-green-black
-blue-black
-black-black
-black-red
-black-green
-black-blue
+Each zone[#]morph.pcap captures the following morphs:  
+red-black  
+green-black  
+blue-black  
+black-black  
+black-red  
+black-green  
+black-blue  
 
-**Note** that zonex can't morph, and so there is no zonexmorph.pcap
+**Note** that zonex can't morph, and so there is no zonexmorph.pcap  
 **Note** that zone1 can't morph, and so there is no zone1morph.pcap
 
 ### Zone Pulse
 Each zone[#]pulse.pcap captures the application of a blue pulse, with a tempo starting at 0.1s, increasing to 1.0s by 0.1s steps, then decreasing back to 0.1s in 0.1s steps.
 
-**Note** that zonex can't pulse, and so there is no zonexpulse.pcap
+**Note** that zonex can't pulse, and so there is no zonexpulse.pcap  
 **Note** that zone1 can't pulse, and so there is no zone1pulse.pcap
 
