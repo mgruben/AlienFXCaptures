@@ -10,6 +10,11 @@ You might want to know these if you use Linux exclusively, and so can't use the 
 This repo is **not** a way to change the lights on your Alienware PC.  
 Those are repos like [alienfx](https://github.com/trackmastersteve/alienfx), [AlienFxLite](https://github.com/bchretien/AlienFxLite), and [alienware-kbl](https://github.com/rsm-gh/alienware-kbl).  
 This repo is just packet captures between AlienFX and an Alienware 2016 17 R4.
+
+## Reading .pcap Files
+These packet capture files were generated using [USBPcap](http://desowin.org/usbpcap/) for Windows.  
+They are inteded to be opened in [Wireshark](https://www.wireshark.org/), which is a free, open-source packet analyzer available for [Windows and Mac](https://www.wireshark.org/#download), and for Linux as well (but consult your distribution for how to get it).
+
 ## Capture Methodology
 ### Preliminary Notes
 * My zone8 (touchpad) wasn't lighting up for any of these captures, so I hope (and assume) that the commands got sent correctly.
